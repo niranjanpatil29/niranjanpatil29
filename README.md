@@ -1,11 +1,11 @@
 [![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2015/10/DataScienceContentBanner.png)](https://niranjanpatil29.io)
 <h1 align="center">Hi 👋, I'm Niranjan Patil</h1>
-<h3 align="center">A passionate Data Analyst and Web Developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Analysis" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI , Python**
+- 🌱 I’m currently learning **Power BI , Python, Data Science**
 
 - 💬 Ask me about **Excel , SQL, Tableau, HTML, CSS**
 
